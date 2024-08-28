@@ -1,0 +1,18 @@
+.slanted-buttons {
+    position: relative;
+    display: inline-block;
+    padding: 10px 29px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #fff; 
+    background-color: #11696a;;
+    border: none;
+   
+    transform: skew(20deg); 
+  }
+  .slanted-buttons:hover{
+    background-color:#029a9ab8 ;
+    color: rgb(1, 27, 27);
+  }
+  
+    
